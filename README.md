@@ -1,3 +1,3 @@
 # attendanceTracker
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/CroNusCoder/attendanceTracker)
+Attendance tracker for nit anp
